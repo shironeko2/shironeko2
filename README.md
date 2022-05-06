@@ -55,4 +55,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MFaqihRidho&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="MFaqihRidho" /></p>
 
-[MFaqihRidho](https://github.com/MFaqihRidho)
+[ Ahmad Wildan ](https://github.com/shironeko2)
